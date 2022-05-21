@@ -1,0 +1,51 @@
+{
+  "id": "16d5a91e-2bca-4188-9ba4-41b8f8fb6940",
+  "uid": "debitis-corrupti-omnis",
+  "type": "posts",
+  "data": {
+    "title": "harness customized e-services",
+    "subtitle": "target scalable metrics",
+    "author": "expedite transparent e-services",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "scale global web-readiness",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Proident laboris laborum eiusmod cupidatat commodo aliqua labore velit qui magna ad nostrud tempor ullamco laboris. Excepteur sint amet eiusmod qui eu aliqua ad anim occaecat velit esse aliqua elit eu Lorem. Eiusmod nulla cillum elit mollit laboris sunt ipsum.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "empower efficient networks",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Laboris eu id dolor excepteur proident elit cupidatat deserunt in deserunt do deserunt consectetur magna. Veniam mollit reprehenderit fugiat sint. Enim pariatur sint elit exercitation ad mollit fugiat officia minim nostrud cupidatat voluptate.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "repurpose innovative e-services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Qui commodo anim et tempor nisi esse aute magna et non ut consectetur mollit aute ad. Commodo dolore Lorem dolor ex in enim duis fugiat fugiat occaecat laboris.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
