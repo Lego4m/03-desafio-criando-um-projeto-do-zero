@@ -60,7 +60,7 @@ const Home: React.FC<HomeProps> = ({ postsPagination }) => {
         <title>spacetraveling.</title>
       </Head>
 
-      <main className={styles.container}>
+      <main className={commonStyles.container}>
         <div className={styles.content}>
           <img src="/Logo.svg" alt="logo" />
 
@@ -71,9 +71,9 @@ const Home: React.FC<HomeProps> = ({ postsPagination }) => {
                   <strong>{post.data.title}</strong>
                   <p>{post.data.subtitle}</p>
 
-                  <div className={styles.description}>
+                  <div className={commonStyles.infos}>
                     <div>
-                      <FiCalendar size={20} />{' '}
+                      <FiCalendar size={20} />
                       <time>
                         {format(
                           new Date(post.first_publication_date),

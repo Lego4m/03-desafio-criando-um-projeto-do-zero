@@ -1,4 +1,25 @@
-.content {
-  max-width: 720px;
+.container {
+  max-width: 1120px;
   margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.infos {
+  display: flex;
+  color: var(--gray-250);
+  font-size: 0.875rem;
+  line-height: 0.875rem;
+
+  div {
+    display: flex;
+    align-items: center;
+
+    svg {
+      margin-right: 0.5rem;
+    }
+
+    & + div {
+      margin-left: 1.5rem;
+    }
+  }
 }

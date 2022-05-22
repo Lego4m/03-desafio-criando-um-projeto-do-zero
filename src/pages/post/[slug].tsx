@@ -67,11 +67,11 @@ const Post: React.FC<PostProps> = ({ post }) => {
       <Header />
       <img className={styles.banner} src={post.data.banner.url} alt="" />
 
-      <main className={styles.container}>
+      <main className={commonStyles.container}>
         <article className={styles.content}>
           <h1>{post.data.title}</h1>
 
-          <div className={styles.infos}>
+          <div className={commonStyles.infos}>
             <div>
               <FiCalendar size={20} />
               <time>
